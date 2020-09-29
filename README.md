@@ -1,11 +1,11 @@
 
-By: 
+Author Information
+--
 
     Govind Ajith Kumar
     University of Maryland
     Masters Robotics
     govindak@umd.edu
-
 
 Libraries used :
 --
